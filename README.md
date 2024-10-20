@@ -131,9 +131,6 @@ The BiLSTM+CNN model exhibited the highest performance in sales prediction. Howe
 
 ## 📚 References
 
-1. A. Krishna A. V A. Aich and C. Hegde, "Sales-forecasting of Retail Stores using Machine Learning Techniques," 2018 3rd International Conference on Computational Systems and Information Technology for Sustainable Solutions (CSITSS), Bengaluru, India, 2018, pp. 160-166, doi: 10.1109/CSITSS.2018.8768765.
-2. Y. Ali and S. Nakti, "Sales Forecasting: A Comparison of Traditional and Modern Times-Series Forecasting Models on Sales Data with Seasonality," 2018.
-3. F.-C. Yuan and C.-H. Lee, "Sales Volume Forecasting Decision Models," 2011 International Conference on Technologies and Applications of Artificial Intelligence, Chung Li, Taiwan, 2011, pp. 239-244, doi: 10.1109/TAAI.2011.49.
-4. Lakshmanan B., Vivek Raja P.S.N., Kalathiappan V., "Sales Demand Forecasting Using LSTM Network," Artificial Intelligence and Evolutionary Computations in Engineering Systems, Springer, Singapore, 2020, https://doi.org/10.1007/978-981-15-0199-9_11.
-5. [Kaggle Store Item Demand Forecasting Challenge](https://www.kaggle.com/competitions/demand-forecasting-kernels-only)
-
+1. [A. Krishna A. V A. Aich and C. Hegde, "Sales-forecasting of Retail Stores using Machine Learning Techniques," 2018 3rd International Conference on Computational Systems and Information Technology for Sustainable Solutions (CSITSS), Bengaluru, India, 2018, pp. 160-166, doi: 10.1109/CSITSS.2018.8768765](https://www.semanticscholar.org/paper/Sales-forecasting-of-Retail-Stores-using-Machine-Krishna-Akhilesh/72a5b772d7942633141bde1994b169694d9aa678)
+2. [Y. Ali and S. Nakti, "Sales Forecasting: A Comparison of Traditional and Modern Times-Series Forecasting Models on Sales Data with Seasonality," 2018](https://www.semanticscholar.org/paper/Sales-Forecasting%3A-A-Comparison-of-Traditional-and-Ali-Nakti/51486062e0bf7e41b7371c41c54ad967eccb59c3)
+3. [F.-C. Yuan and C.-H. Lee, "Sales Volume Forecasting Decision Models," 2011 International Conference on Technologies and Applications of Artificial Intelligence, Chung Li, Taiwan, 2011, pp. 239-244, doi: 10.1109/TAAI.2011.49](https://www.researchgate.net/publication/269700161_A_Novel_Forecasting_Model_Based_on_Support_Vector_Regression_and_Bat_Meta-Heuristic_Bat-SVR_Case_Study_in_Printed_Circuit_Board_Industry)
