@@ -1,9 +1,6 @@
-# 🌟 Supply Demand Forecasting using Time Series Forecasting & Neural Networks 🌟
-<div style="text-align: center;">
-  <img src="imgs/poster.png" alt="Project Banner" style="width: 100%; max-width: 800px;">
-</div>
+# MEC-755 Minor Project, Mechanical Engineering: Demand Supply Forecasting
 
-## Group details:
+This project has been created as the part of the 7th semester's course **MEC755 Minor Project, Mechanical Engineering**. The team members are listed as follows:
 
 | Roll Number | Name                  |
 |-------------|-----------------------|
@@ -17,10 +14,18 @@
 <p>
 Dr. Tukesh Soni<br>
 Professor, Department of Mechanical Engineering, UIET Panjab University<br>
-IIT Delhi (PhD), IIT Kanpur (Masters)
+PhD Rotor Dynamics, IIT Delhi<br>
+MTech Mechanical Engineering, IIT Kanpur
 </p>
 
+
 ## 📋 Introduction
+#### Supply Demand Forecasting using Time Series Forecasting & Neural Networks
+
+<div style="text-align: center;">
+  <img src="imgs/poster.png" alt="Project Banner" style="width: 100%; max-width: 800px;">
+</div>
+
 
 Demand forecasting plays a crucial role in supply chain management and retail operations. Accurate demand forecasting ensures that the right product quantities are available at the correct time and location, preventing stockouts or overstocking. This project leverages advanced neural networks and time-series forecasting techniques to address the challenges of demand forecasting in retail stores.
 
