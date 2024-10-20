@@ -1,4 +1,4 @@
-# MEC-755 Minor Project, Mechanical Engineering: Demand Supply Forecasting
+# MEC755 Minor Project, Mechanical Engineering: Demand Supply Forecasting
 
 This project has been created as the part of the 7th semester's course **MEC755 Minor Project, Mechanical Engineering**. The team members are listed as follows:
 
