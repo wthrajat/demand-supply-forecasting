@@ -3,6 +3,21 @@
   <img src="imgs/poster.png" alt="Project Banner" style="width: 100%; max-width: 800px;">
 </div>
 
+## Group details:
+
+- UE219055 Rajat Khanduri
+- UE219041 Lakshya Kumar Sharma
+- UE219058 Rohit Kumar
+- UE219026 Gautam Goel
+
+#### Supervisor:
+
+<p>
+Dr. Tukesh Soni<br>
+Professor, Department of Mechanical Engineering, UIET Panjab University<br>
+IIT Delhi (PhD), IIT Kanpur (Masters)
+</p>
+
 ## 📋 Introduction
 
 Demand forecasting plays a crucial role in supply chain management and retail operations. Accurate demand forecasting ensures that the right product quantities are available at the correct time and location, preventing stockouts or overstocking. This project leverages advanced neural networks and time-series forecasting techniques to address the challenges of demand forecasting in retail stores.
@@ -61,7 +76,18 @@ The primary objective of this project is to develop a cutting-edge forecasting m
 ### Baseline Models
 
 - **Machine Learning Algorithms**:
-  - Random Forest Regressor
+  - Random Forest Regressor### Group details:
+
+UE219055 Rajat Khanduri
+UE219041 Lakshya Kumar Sharma
+UE219058 Rohit Kumar
+UE219026 Gautam Goel
+
+#### Supervisor:
+Dr. Tukesh Soni
+(Prof., Dept. of Mechanical Engineering, UIET Panjab University
+IIT Delhi, IIT Kanpur)
+
   - CNN
   - XGBoost Regressor
   - ANN
