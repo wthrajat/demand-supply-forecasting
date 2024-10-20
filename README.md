@@ -76,18 +76,7 @@ The primary objective of this project is to develop a cutting-edge forecasting m
 ### Baseline Models
 
 - **Machine Learning Algorithms**:
-  - Random Forest Regressor### Group details:
-
-UE219055 Rajat Khanduri
-UE219041 Lakshya Kumar Sharma
-UE219058 Rohit Kumar
-UE219026 Gautam Goel
-
-#### Supervisor:
-Dr. Tukesh Soni
-(Prof., Dept. of Mechanical Engineering, UIET Panjab University
-IIT Delhi, IIT Kanpur)
-
+  - Random Forest Regressor
   - CNN
   - XGBoost Regressor
   - ANN
@@ -116,7 +105,7 @@ BiLSTM-CNN which is one of our other models also has a similar architecture in w
 
 - **Mean Squared Error (MSE)**: Used to quantify the average squared magnitude of errors between predicted and actual values.
 
-
+<!-- 
 ## 🏆 Results
 
 ### Baseline Models Performance
@@ -133,7 +122,7 @@ BiLSTM-CNN which is one of our other models also has a similar architecture in w
 </div>
 
 - BiLSTM-CNN hybrid model demonstrated the best performance in sales prediction, followed closely by the BiLSTM and LSTM-CNN models.
-
+ -->
 
 ## How to run the project
 
