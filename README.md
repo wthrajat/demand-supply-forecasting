@@ -124,10 +124,10 @@ BiLSTM-CNN which is one of our other models also has a similar architecture in w
   ```sh
   jupyter notebook
   ```
-
+<!-- 
 ## 💬 Discussion and Future Scope
 
-The BiLSTM+CNN model exhibited the highest performance in sales prediction. However, the dataset's limited attribute coverage and lack of granularity might have hindered capturing crucial factors influencing sales. Future improvements could involve advanced evaluation techniques and acquiring additional dataset information to enhance predictive accuracy.
+The BiLSTM+CNN model exhibited the highest performance in sales prediction. However, the dataset's limited attribute coverage and lack of granularity might have hindered capturing crucial factors influencing sales. Future improvements could involve advanced evaluation techniques and acquiring additional dataset information to enhance predictive accuracy. -->
 
 ## 📚 References
 
