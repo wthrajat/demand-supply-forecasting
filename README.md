@@ -5,10 +5,12 @@
 
 ## Group details:
 
-- UE219055 Rajat Khanduri
-- UE219041 Lakshya Kumar Sharma
-- UE219058 Rohit Kumar
-- UE219026 Gautam Goel
+| Roll Number | Name                  |
+|-------------|-----------------------|
+| UE2190**55**    | Rajat Khanduri        |
+| UE2190**41**    | Lakshya Kumar Sharma  |
+| UE2190**58**    | Rohit Kumar           |
+| UE2190**26**    | Gautam Goel           |
 
 #### Supervisor:
 
