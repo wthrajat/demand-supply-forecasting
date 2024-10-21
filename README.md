@@ -138,6 +138,15 @@ BiLSTM-CNN which is one of our other models also has a similar architecture in w
   git clone https://github.com/wthrajat/demand-supply-forecasting.git
   cd demand-supply-forecasting
   ```
+- [x] Create and activate the Python Virtual Environment:
+  ```sh
+  python3 -m venv my_env
+  source my_env/bin/activate
+  ```
+- [x] Install dependencies:
+  ```sh
+  pip install -r requirements.txt
+  ```
 - [x] Ensure you have Jupyter Notebook installed. You can install it using pip if you don't have it already:
    ```sh
    pip install notebook
