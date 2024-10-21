@@ -23,9 +23,16 @@ MTech Mechanical Engineering, IIT Kanpur
 #### Supply Demand Forecasting using Time Series Forecasting & Neural Networks
 
 <div style="text-align: center;">
-  <img src="imgs/poster.png" alt="Project Banner" style="width: 100%; max-width: 800px;">
+  <img src="imgs/1.png" alt="Visualise Data" style="width: 100%; max-width: 800px;">
 </div>
 
+<div style="text-align: center;">
+  <img src="imgs/2.png" alt="Visualise Data" style="width: 100%; max-width: 800px;">
+</div>
+
+<div style="text-align: center;">
+  <img src="imgs/3.png" alt="Visualise Data" style="width: 100%; max-width: 800px;">
+</div>
 
 Demand forecasting plays a crucial role in supply chain management and retail operations. Accurate demand forecasting ensures that the right product quantities are available at the correct time and location, preventing stockouts or overstocking. This project leverages advanced neural networks and time-series forecasting techniques to address the challenges of demand forecasting in retail stores.
 
